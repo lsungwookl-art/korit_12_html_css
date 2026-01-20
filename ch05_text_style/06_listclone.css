@@ -1,0 +1,13 @@
+ol>li:nth-child(4) {
+  text-decoration: line-through;
+}
+
+/* .dark {
+    text-decoration: overline;  // html 18번 라인 사용시
+} */
+
+/* 밑에것도 가능하긴한데 우선순위가 밀려서 확인하고 싶으면 주석 처리하셔야함.*/
+
+/* #movie {
+  text-decoration: underline;
+} */
